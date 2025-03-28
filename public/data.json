@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Ультрабук Quantum X",
+      "price": 89990,
+      "description": "14 дюймов, процессор Nebula Z7, 16 ГБ ОЗУ, 1 ТБ SSD",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "electronics",
+      "rating": 9.2
+    },
+    {
+      "id": 2,
+      "title": "Смартфон Black Hole Pro",
+      "price": 74990,
+      "description": "6.8 дюймов AMOLED, 256 ГБ памяти, подводная съемка",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "electronics",
+      "rating": 8.9
+    },
+    {
+      "id": 3,
+      "title": "Робот-пылесос CleanMaster 5000",
+      "price": 32990,
+      "description": "Самоочистка, картография помещения, влажная уборка",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "electronics",
+      "rating": 8.5
+    },
+    {
+      "id": 4,
+      "title": "Умный холодильник FoodKeeper",
+      "price": 129990,
+      "description": "Сенсорный экран, камера внутри, распознавание продуктов",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "electronics",
+      "rating": 8.7
+    },
+    {
+      "id": 5,
+      "title": "Игровая консоль NeoStation X",
+      "price": 59990,
+      "description": "8K графика, 1 ТБ SSD, беспроводной контроллер",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "electronics",
+      "rating": 9.4
+    },
+    {
+      "id": 6,
+      "title": "Дрон SkyHunter Pro",
+      "price": 45990,
+      "description": "8K камера, 40 минут полета, следящий режим",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "electronics",
+      "rating": 8.8
+    },
+    {
+      "id": 7,
+      "title": "Умные часы HealthGuard",
+      "price": 19990,
+      "description": "ЭКГ, измерение кислорода, 14 дней работы",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "electronics",
+      "rating": 8.3
+    },
+    {
+      "id": 8,
+      "title": "Проектор CineMax Portable",
+      "price": 35990,
+      "description": "Full HD, 200 люмен, встроенный Android",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "electronics",
+      "rating": 8.1
+    },
+    {
+      "id": 9,
+      "title": "Электросамокат TurboWheel",
+      "price": 42990,
+      "description": "40 км на заряде, 25 км/ч, вес 12 кг",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "electronics",
+      "rating": 8.6
+    },
+    {
+      "id": 10,
+      "title": "3D-принтер MakerUltra",
+      "price": 78990,
+      "description": "Точность 50 микрон, печать металлом и пластиком",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "electronics",
+      "rating": 8.4
+    },
+    {
+      "id": 11,
+      "title": "Круассан французский",
+      "price": 250,
+      "description": "Слоеное тесто, масляная начинка, золотистая корочка",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "clothing",
+      "rating": 9.1
+    },
+    {
+      "id": 12,
+      "title": "Багет деревенский",
+      "price": 180,
+      "description": "Хрустящая корочка, воздушный мякиш, традиционный рецепт",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "clothing",
+      "rating": 8.9
+    },
+    {
+      "id": 13,
+      "title": "Торт 'Красный бархат'",
+      "price": 1200,
+      "description": "Нежные коржи, крем-чиз, ягодная прослойка",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "clothing",
+      "rating": 9.3
+    },
+    {
+      "id": 14,
+      "title": "Пирожок с вишней",
+      "price": 95,
+      "description": "Дрожжевое тесто, сочная начинка, посыпка сахаром",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "clothing",
+      "rating": 8.7
+    },
+    {
+      "id": 15,
+      "title": "Чизкейк Нью-Йорк",
+      "price": 850,
+      "description": "Классический рецепт, нежная текстура, ягодный топпинг",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "clothing",
+      "rating": 9.5
+    },
+    {
+      "id": 16,
+      "title": "Булочка с корицей",
+      "price": 120,
+      "description": "Ароматная корица, сахарная глазурь, мягкое тесто",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "clothing",
+      "rating": 8.8
+    },
+    {
+      "id": 17,
+      "title": "Пончики глазированные",
+      "price": 150,
+      "description": "Воздушные, с шоколадной или сахарной глазурью",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "clothing",
+      "rating": 8.6
+    },
+    {
+      "id": 18,
+      "title": "Хлеб ржаной на закваске",
+      "price": 220,
+      "description": "Плотный мякиш, хрустящая корочка, натуральная закваска",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "clothing",
+      "rating": 9.0
+    },
+    {
+      "id": 19,
+      "title": "Эклеры с заварным кремом",
+      "price": 200,
+      "description": "Хрустящее тесто, ванильный крем, шоколадная глазурь",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "clothing",
+      "rating": 9.2
+    },
+    {
+      "id": 20,
+      "title": "Пирог с курицей и грибами",
+      "price": 450,
+      "description": "Слоеное тесто, сочная начинка, золотистая корочка",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "clothing",
+      "rating": 8.9
+    },
+    {
+      "id": 21,
+      "title": "Товар 1",
+      "price": 150000,
+      "description": "Особый товар, требует осторожного обращения",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "books",
+      "rating": 3.2
+    },
+    {
+      "id": 22,
+      "title": "Товар 2",
+      "price": 225000,
+      "description": "Эксклюзивный предмет ограниченного распространения",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "books",
+      "rating": 2.8
+    },
+    {
+      "id": 23,
+      "title": "Товар 3",
+      "price": 180000,
+      "description": "Требует специальных условий хранения",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "books",
+      "rating": 4.1
+    },
+    {
+      "id": 24,
+      "title": "Товар 4",
+      "price": 300000,
+      "description": "Высокий риск, высокая награда",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "books",
+      "rating": 1.9
+    },
+    {
+      "id": 25,
+      "title": "Товар 5",
+      "price": 95000,
+      "description": "Компактный, но ценный предмет",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "books",
+      "rating": 5.5
+    },
+    {
+      "id": 26,
+      "title": "Товар 6",
+      "price": 420000,
+      "description": "Редкий экземпляр, единичное производство",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "books",
+      "rating": 2.3
+    },
+    {
+      "id": 27,
+      "title": "Товар 7",
+      "price": 110000,
+      "description": "Требует специальной упаковки",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "books",
+      "rating": 6.7
+    },
+    {
+      "id": 28,
+      "title": "Товар 8",
+      "price": 275000,
+      "description": "Опасен при неправильном использовании",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "books",
+      "rating": 3.5
+    },
+    {
+      "id": 29,
+      "title": "Товар 9",
+      "price": 150000,
+      "description": "Конфиденциальная доставка включена",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "books",
+      "rating": 4.8
+    },
+    {
+      "id": 30,
+      "title": "Товар 10",
+      "price": 500000,
+      "description": "Только для специальных клиентов",
+      "image": "https://picsum.photos/150/150?random",
+      "category": "books",
+      "rating": 1.5
+    }
+  ]
+}
