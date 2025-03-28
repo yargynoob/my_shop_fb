@@ -12,7 +12,6 @@
     ```shell
     npx json-server --watch public/data.json --port 3001
    ```
-   Теперь по ссылке `http://localhost:3001/products` доступны данные о товарах.
 4. Запускаем frontend
     ```shell
     npm run dev
